@@ -1,0 +1,5 @@
+c:\users\mariel\documents\visual studio 2012\Projects\servidorCliente\servidorCliente\bin\Debug\servidorCliente.exe
+c:\users\mariel\documents\visual studio 2012\Projects\servidorCliente\servidorCliente\bin\Debug\servidorCliente.pdb
+c:\users\mariel\documents\visual studio 2012\Projects\servidorCliente\servidorCliente\obj\Debug\servidor.csprojResolveAssemblyReference.cache
+c:\users\mariel\documents\visual studio 2012\Projects\servidorCliente\servidorCliente\obj\Debug\servidorCliente.exe
+c:\users\mariel\documents\visual studio 2012\Projects\servidorCliente\servidorCliente\obj\Debug\servidorCliente.pdb

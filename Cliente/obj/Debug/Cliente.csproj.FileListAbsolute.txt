@@ -1,0 +1,4 @@
+c:\Users\mariel\documents\visual studio 2012\Projects\servidorCliente\Cliente\bin\Debug\Cliente.exe
+c:\Users\mariel\documents\visual studio 2012\Projects\servidorCliente\Cliente\bin\Debug\Cliente.pdb
+c:\Users\mariel\documents\visual studio 2012\Projects\servidorCliente\Cliente\obj\Debug\Cliente.exe
+c:\Users\mariel\documents\visual studio 2012\Projects\servidorCliente\Cliente\obj\Debug\Cliente.pdb
